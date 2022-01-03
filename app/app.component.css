@@ -1,3 +1,4 @@
+
 .nav-link{
     color: white;
 }
@@ -10,8 +11,8 @@
     border-style: solid;
     border-left: none;
     border-right: none;
-    border-color: whitesmoke;
-    border-width: 0.1em;
+    border-color: rgba(238, 232, 232, 0.801);
+    border-width: 0.01em;
     padding-bottom: none;
     background-color: whitesmoke;
     
@@ -20,7 +21,7 @@
     background-size: contain;
     background-repeat: no-repeat;
     height: 80vh;
-    background-image: url("./app-sms.jpeg");
+    background-image: url("../assets/app-sms.jpeg");
 }
 .sms{
     color:blue;
@@ -28,7 +29,4 @@
     font-size: 4em;
     padding-top: 5%;
     padding-left: 10%;
-}
-.carte-une{
-    background-image: url("./background.jpg");
 }
